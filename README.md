@@ -18,6 +18,8 @@ Special features:
 $ npm install thinodium thinodium-mongodb mongodb@2.2
 ```
 
+**Note: Node 6 or above is required for this adapter**
+
 ## Usage examples
 
 ```js
