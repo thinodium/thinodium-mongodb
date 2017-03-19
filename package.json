@@ -1,6 +1,6 @@
 {
   "name": "thinodium-mongodb",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "MongoDB adapter for Thinodium ODM library",
   "main": "index.js",
   "scripts": {
