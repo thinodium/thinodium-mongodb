@@ -1,0 +1,49 @@
+{
+  "name": "thinodium-mongodb",
+  "version": "1.0.0",
+  "description": "MongoDB adapter for Thinodium ODM library",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thinodium/thinodium-mongodb.git"
+  },
+  "keywords": [
+    "odm",
+    "mongodb",
+    "mongo",
+    "thinodium",
+    "db",
+    "adapter",
+    "plugin"
+  ],
+  "author": "Ramesh Nair <ram@hiddentao.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thinodium/thinodium-mongodb/issues"
+  },
+  "homepage": "https://github.com/thinodium/thinodium-mongodb#readme",
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "lodash": "^4.15.0",
+    "mongodb": "^2.2.25"
+  },
+  "peerDependencies": {
+    "mongodb": "^2.2.25",
+    "thinodium": "^1.x.x"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chai-as-promised": "^5.3.0",
+    "co-mocha": "^1.1.0",
+    "gulp": "~3.8.1",
+    "gulp-mocha": "~0.4.1",
+    "mocha": "^2.1.0",
+    "mongo-replica-set": "^0.3.0",
+    "sinon": "^1.12.2",
+    "sinon-chai": "^2.8.0",
+    "thinodium": "^1.1.1"
+  }
+}
