@@ -6,7 +6,7 @@
 [![Follow on Twitter](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&label=Follow&maxAge=2592000)](https://twitter.com/hiddentao)
 
 A MongoDB adapter for [thinodium](https://github.com/thinodium/thinodium)
-which internally uses the [official mongodb driver](http://mongodb.github.io/node-mongodb-native/2.2/api/).
+which internally uses the [official MongoDB driver](http://mongodb.github.io/node-mongodb-native/2.2/api/).
 
 Special features:
 
